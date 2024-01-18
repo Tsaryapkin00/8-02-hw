@@ -37,7 +37,14 @@
 
 ### Решение 1:
 
+Скриншоты с настройками проекта:
+![1. ](https://github.com/Tsaryapkin00/8-02-hw/assets/117481592/3b8d79c7-72e1-40e6-aa60-424fd11905f7)
+![2. ](https://github.com/Tsaryapkin00/8-02-hw/assets/117481592/0ab4d8dd-62ba-4f20-9b0b-15597fce0e1e)
+![3. ](https://github.com/Tsaryapkin00/8-02-hw/assets/117481592/0dd994d2-8287-45e9-8033-c63a538fa9dc)
 
+Резултаты выполнения сборки:
+![1. ](https://github.com/Tsaryapkin00/8-02-hw/assets/117481592/396638cb-2126-4e0f-a95c-513ab69e7e65)
+![2. ](https://github.com/Tsaryapkin00/8-02-hw/assets/117481592/90a53b8e-baed-40c7-b2d9-1900421992da)
 
 ---
 
